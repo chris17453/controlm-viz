@@ -1,0 +1,9 @@
+*.jcl
+jcl
+*.tmp
+*.pyc
+*.c
+*.so
+*.svg
+*.dot
+
